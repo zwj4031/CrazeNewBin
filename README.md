@@ -1,2 +1,2 @@
 # CrazeNewBin
-CrazeNewBin
+WindowsPE专用的疯牛病注册表精简器，可以精简software注册表
