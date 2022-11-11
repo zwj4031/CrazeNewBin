@@ -1529,3 +1529,6 @@ Classes\CLSID\{8E0C279D-0BD1-43C3-9EBD-31C3DC5B8A77}
 Classes\CLSID\{ECDB0924-4208-451E-8EE0-373C0956DE16}
 ;zuzhi_tianxinjian_winxshell
 Microsoft\Windows\CurrentVersion\Explorer\CommandStore
+;lua_support
+classes\.lua
+classes\luafile
