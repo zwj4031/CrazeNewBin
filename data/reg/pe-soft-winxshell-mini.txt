@@ -1407,3 +1407,5 @@ Classes\CLSID\{88d96a05-f192-11d4-a65f-0040963251e5}
 Microsoft\Windows\CurrentVersion\Ext\PreApproved\{88d96a05-f192-11d4-a65f-0040963251e5}
 WOW6432Node\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{88d96a05-f192-11d4-a65f-0040963251e5}
 ;edge_downloader_end
+;File Open Dialog_WinXshell_need
+Classes\CLSID\{DC1C5A9C-E88A-4dde-A5A1-60F82A20AEF7}
