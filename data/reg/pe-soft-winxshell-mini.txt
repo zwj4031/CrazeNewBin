@@ -1409,3 +1409,5 @@ WOW6432Node\Microsoft\Windows\CurrentVersion\Ext\PreApproved\{88d96a05-f192-11d4
 ;edge_downloader_end
 ;File Open Dialog_WinXshell_need
 Classes\CLSID\{DC1C5A9C-E88A-4dde-A5A1-60F82A20AEF7}
+;kuai su fangwen tubiao
+Classes\CLSID\{679f85cb-0220-4080-b29b-5540cc05aab6}
