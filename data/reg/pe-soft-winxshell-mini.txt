@@ -1527,3 +1527,5 @@ Classes\CLSID\{5ea4f148-308c-46d7-98a9-49041b1dd468}
 Classes\CLSID\{67718415-c450-4f3c-bf8a-b487642dc39b}
 Classes\CLSID\{8E0C279D-0BD1-43C3-9EBD-31C3DC5B8A77}
 Classes\CLSID\{ECDB0924-4208-451E-8EE0-373C0956DE16}
+;zuzhi_tianxinjian_winxshell
+Microsoft\Windows\CurrentVersion\Explorer\CommandStore
