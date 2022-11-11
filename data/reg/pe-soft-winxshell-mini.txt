@@ -1532,3 +1532,5 @@ Microsoft\Windows\CurrentVersion\Explorer\CommandStore
 ;lua_support
 classes\.lua
 classes\luafile
+;support_native_Explorer
+Classes\CLSID\{52205fd8-5dfb-447d-801a-d0b52f2e83e1}
