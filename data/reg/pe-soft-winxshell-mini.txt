@@ -1536,3 +1536,5 @@ classes\luafile
 Classes\CLSID\{52205fd8-5dfb-447d-801a-d0b52f2e83e1}
 ;Explorer_set
 Microsoft\Windows\CurrentVersion\Explorer\Streams\Defaults
+;20221113_DWM
+Microsoft\Windows NT\CurrentVersion\Svchost
