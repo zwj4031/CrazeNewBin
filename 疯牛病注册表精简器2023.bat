@@ -29,7 +29,9 @@ exit /b
 
 
 :startplay
+start "" %~dp0bin\winxshell.exe -console -log -script %~dp0CrazeNewBin.lua
 echo 按任意键开始，
+pause
 :init
 
 echo .查找光盘分区
@@ -51,4 +53,5 @@ rem 挂载完整注册表配置单元
 reg load hklm\os-soft %~dp0software
 rem 原生壳支持
 ::call :explorer_support
-bin\winxshell.exe -script CrazeNewBin.lua
+
+pause
