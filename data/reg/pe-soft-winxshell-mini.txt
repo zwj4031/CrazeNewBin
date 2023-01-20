@@ -1540,3 +1540,4 @@ Microsoft\Windows\CurrentVersion\Explorer\Streams\Defaults
 Microsoft\Windows NT\CurrentVersion\Svchost
 ;20230119_win8.1_QQ_Create_programfiles
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{905e63b6-c1bf-494e-b29c-65b732d3d21a}
+Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}
