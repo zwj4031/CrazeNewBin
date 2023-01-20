@@ -1539,6 +1539,12 @@ Microsoft\Windows\CurrentVersion\Explorer\Streams\Defaults
 ;20221113_DWM
 Microsoft\Windows NT\CurrentVersion\Svchost
 ;20230119_win8.1_QQ_Create_programfiles_need
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{905e63b6-c1bf-494e-b29c-65b732d3d21a}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{DFDF76A2-C82A-4D63-906A-5644AC457385}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5cd7aee2-2219-4a67-b85d-6c9ce15660cb}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{905e63b6-c1bf-494e-b29c-65b732d3d21a}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{DFDF76A2-C82A-4D63-906A-5644AC457385}
@@ -1546,6 +1552,13 @@ Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F7F1ED
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5cd7aee2-2219-4a67-b85d-6c9ce15660cb}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}
 ;other_keneng_notneed
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}
+Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{bcbd3057-ca5c-4622-b42d-bc56db0ae516}
