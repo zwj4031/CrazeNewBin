@@ -46,9 +46,9 @@ echo 开始生成测试用的完整software…………
 
 
 rem 挂载空注册表单元
-reg load hklm\pe-soft %~dp0software_out
+
 rem 挂载完整注册表配置单元
-reg load hklm\os-soft %~dp0software
+
 rem 原生壳支持
 
 
