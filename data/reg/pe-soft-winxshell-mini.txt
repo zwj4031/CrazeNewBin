@@ -1721,3 +1721,34 @@ Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{f3ce0f
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{FD228CB7-AE11-4AE3-864C-16F3910AB8FE}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}
+;douyupe__1607_explorer_blackscreen
+Microsoft\Windows\CurrentVersion\Explorer\StartMenu\Places
+Classes\CLSID\{EF54CA1A-1D2C-A774-27FA-D51E5A0BD755}
+;douyupe__1607_explorer_renwulan_tubiao_baiban
+Classes\CLSID\{603D3800-BD81-11d0-A3A5-00C04FD706EC}
+;douyupe__1607_explorer_ci_dian_nao_bu_zhi_chi_ci_jie_kou
+Classes\Interface\{50A87BAA-5F79-4C31-B6B3-28F6F2D097E6}
+;douyu_1607_explorer_ren_wu_lan_kasi
+Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95
+Microsoft\Active Setup\Installed Components\{22d6f312-b0f6-11d0-94ab-0080c74c7e95}
+Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}
+Microsoft\Active Setup\Installed Components\{31699572-6286-3C1C-A03C-511D59181038}
+Microsoft\Active Setup\Installed Components\{3af36230-a269-11d1-b5bf-0000f8051515}
+Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}
+Microsoft\Active Setup\Installed Components\{44BBA855-CC51-11CF-AAFA-00AA00B6015F}
+Microsoft\Active Setup\Installed Components\{45ea75a0-a269-11d1-b5bf-0000f8051515}
+Microsoft\Active Setup\Installed Components\{4f645220-306d-11d2-995d-00c04f98bbc9}
+Microsoft\Active Setup\Installed Components\{5fd399c0-a70a-11d1-9948-00c04f98bbc9}
+Microsoft\Active Setup\Installed Components\{630b1da0-b465-11d1-9948-00c04f98bbc9}
+Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}
+Microsoft\Active Setup\Installed Components\{6fab99d0-bab8-11d1-994a-00c04f98bbc9}
+Microsoft\Active Setup\Installed Components\{7790769C-0471-11d2-AF11-00C04FA35D02}
+Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}
+Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}
+Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}
+Microsoft\Active Setup\Installed Components\{9381D8F2-0288-11D0-9501-00AA00B911A5}
+Microsoft\Active Setup\Installed Components\{C9E9A340-D1F1-11D0-821E-444553540600}
+Microsoft\Active Setup\Installed Components\{de5aed00-a4bf-11d1-9948-00c04f98bbc9}
+Microsoft\Active Setup\Installed Components\{E92B03AB-B707-11d2-9CBD-0000F87A369E}
+Microsoft\CTF
+Microsoft\Command Processor

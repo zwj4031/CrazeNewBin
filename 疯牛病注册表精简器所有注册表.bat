@@ -14,7 +14,7 @@ if not "x%TRUSTEDINSTALLER%"=="x1" (
 
 echo .正在初始化....
 echo 检测注册表配置单元残留
-for %%a in (pe-install os-drv os-soft os-sys pe-drv pe-sys pe-install pe-def) do (
+for %%a in (pe-soft os-drv os-soft os-sys pe-drv pe-sys pe-soft pe-def) do (
 set item=%%a
 call :checkitem %item%
 )
@@ -62,18 +62,18 @@ reg import %~dp0data\fix\%%r
 
 
 echo 替换c/d为x，删除Interactive User
-"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-install -y C:\ -y -r X:\
-"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-install -y D:\ -y -r X:\
-"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-install\Classes\AppID -y  Interactive User -r
+"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-soft -y C:\ -y -r X:\
+"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-soft -y D:\ -y -r X:\
+"%~dp0data\tools\regfind" -p HKEY_LOCAL_MACHINE\pe-soft\Classes\AppID -y  Interactive User -r
 @echo 获取权限....
-"%~dp0data\tools\SetACL.exe" -on "HKLM\pe-install" -ot reg -actn ace -ace "n:Everyone;p:full"
+"%~dp0data\tools\SetACL.exe" -on "HKLM\pe-soft" -ot reg -actn ace -ace "n:Everyone;p:full"
 
 echo 导出注册表单元
-reg export hklm\pe-install %~dp0out\pe-install.reg /y
+reg export hklm\pe-soft %~dp0out\pe-soft.reg /y
 
 
 echo 卸载精简版注册表单元
-reg unload hklm\pe-install
+reg unload hklm\pe-soft
 if exist %~dp0data\temp\software move /y %~dp0data\temp\software out\SOFTWARE
 rd /q /f %~dp0data\temp
 cls 
@@ -86,7 +86,7 @@ exit
 :load_install
 if not exist "%~dp0data\temp" md "%~dp0data\temp"
 "%~dp0data\tools\wimlib-imagex.exe" extract "%wimdir%" 4 \Windows\System32\config\software --dest-dir="%~dp0data\temp" --nullglob --no-acls
-reg load hklm\pe-install "%~dp0data\temp\software"
+reg load hklm\pe-soft "%~dp0data\temp\software"
 exit /b
 
 
