@@ -1721,14 +1721,14 @@ Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{f3ce0f
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{FD228CB7-AE11-4AE3-864C-16F3910AB8FE}
 Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}
-;douyupe__1607_explorer_blackscreen
+;douyupe__1607_14393_explorer_blackscreen
 Microsoft\Windows\CurrentVersion\Explorer\StartMenu\Places
 Classes\CLSID\{EF54CA1A-1D2C-A774-27FA-D51E5A0BD755}
-;douyupe__1607_explorer_renwulan_tubiao_baiban
+;douyupe__1607_14393_explorer_renwulan_tubiao_baiban
 Classes\CLSID\{603D3800-BD81-11d0-A3A5-00C04FD706EC}
-;douyupe__1607_explorer_ci_dian_nao_bu_zhi_chi_ci_jie_kou
+;douyupe__1607_14393_explorer_ci_dian_nao_bu_zhi_chi_ci_jie_kou
 Classes\Interface\{50A87BAA-5F79-4C31-B6B3-28F6F2D097E6}
-;douyu_1607_explorer_ren_wu_lan_kasi
+;douyu_1607_14393_explorer_ren_wu_lan_kasi
 Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95
 Microsoft\Active Setup\Installed Components\{22d6f312-b0f6-11d0-94ab-0080c74c7e95}
 Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}
@@ -1752,3 +1752,6 @@ Microsoft\Active Setup\Installed Components\{de5aed00-a4bf-11d1-9948-00c04f98bbc
 Microsoft\Active Setup\Installed Components\{E92B03AB-B707-11d2-9CBD-0000F87A369E}
 Microsoft\CTF
 Microsoft\Command Processor
+;douyupe__1607_14393_explorer_ziyuan_guanliqi_zai_tongyi_chuangkou_dakai_wenjianjia 
+Classes\Interface\{00000114-0000-0000-C000-000000000046}
+
