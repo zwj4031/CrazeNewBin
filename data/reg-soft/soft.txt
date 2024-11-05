@@ -1,0 +1,377 @@
+Microsoft\.NETFramework
+Microsoft\AccountsControl
+Microsoft\Active Setup
+Microsoft\ActiveSync
+Microsoft\ADs
+Microsoft\Advanced INF Setup
+Microsoft\ALG
+Microsoft\AllUserInstallAgent
+Microsoft\AMSI
+Microsoft\Analog
+Microsoft\AppModel
+Microsoft\AppServiceProtocols
+Microsoft\AppV
+Microsoft\ASP.NET
+Microsoft\Assistance
+Microsoft\AuthHost
+Microsoft\BidInterface
+Microsoft\BitLockerCsp
+Microsoft\CallAndMessagingEnhancement
+Microsoft\Cellular
+Microsoft\Chkdsk
+Microsoft\Clipboard
+Microsoft\ClipboardServer
+Microsoft\COM3
+Microsoft\Command Processor
+Microsoft\CommsAPHost
+Microsoft\Composition
+Microsoft\CoreShell
+Microsoft\Cryptography
+Microsoft\CspSchema
+Microsoft\CTF
+Microsoft\DataAccess
+Microsoft\DataCollection
+Microsoft\DataSharing
+Microsoft\DDDS
+Microsoft\DeclaredConfiguration
+Microsoft\DevDiv
+Microsoft\Device Association Framework
+Microsoft\Dfrg
+Microsoft\DiagnosticLogCSP
+Microsoft\DirectDraw
+Microsoft\DirectInput
+Microsoft\DirectMusic
+Microsoft\DirectPlay8
+Microsoft\DirectPlayNATHelp
+Microsoft\DirectShow
+Microsoft\DirectX
+Microsoft\Driver Signing
+Microsoft\DRM
+Microsoft\DusmSvc
+Microsoft\DVDNavigator
+Microsoft\DVR
+Microsoft\DXP
+Microsoft\EAPSIMMethods
+Microsoft\Enrollment
+Microsoft\Enrollments
+Microsoft\EnterpriseCertificates
+Microsoft\EnterpriseResourceManager
+Microsoft\EventSounds
+Microsoft\EventSystem
+Microsoft\F12
+Microsoft\FamilyStore
+Microsoft\Fax
+Microsoft\FaxServer
+Microsoft\Feeds
+Microsoft\FilePicker
+Microsoft\FilterDS
+Microsoft\FingerKB
+Microsoft\FTH
+Microsoft\Function Discovery
+Microsoft\Fusion
+Microsoft\FuzzyDS
+Microsoft\GameOverlay
+Microsoft\HTMLHelp
+Microsoft\Hvsi
+Microsoft\IdentityCRL
+Microsoft\IdentityStore
+Microsoft\IHDS
+Microsoft\ImageTimeSettings
+Microsoft\IMAPI
+Microsoft\IME
+Microsoft\IMEJP
+Microsoft\IMEKR
+Microsoft\IMETC
+Microsoft\InProcLogger
+Microsoft\Input
+Microsoft\InputMethod
+Microsoft\InputPersonalization
+Microsoft\Internet Account Manager
+Microsoft\Internet Domains
+Microsoft\Internet Explorer
+Microsoft\IsoBurn
+Microsoft\LanguageOverlay
+Microsoft\LexiconUpdate
+Microsoft\MdmCommon
+Microsoft\MdmDiagnostics
+Microsoft\MediaEngine
+Microsoft\MediaPlayer
+Microsoft\MemoryDiagnostic
+Microsoft\Messaging
+Microsoft\MessengerService
+Microsoft\Microsoft Camera Codec Pack
+Microsoft\MiracastReceiver
+Microsoft\MMC
+Microsoft\Mobile
+Microsoft\MSBuild
+Microsoft\MSDE
+Microsoft\MSDRM
+Microsoft\MSDTC
+Microsoft\MSF
+Microsoft\MSIME
+Microsoft\MSLicensing
+Microsoft\MSN Apps
+Microsoft\MTF
+Microsoft\MTFFuzzyFactors
+Microsoft\MTFInputType
+Microsoft\MTFKeyboardMappings
+Microsoft\Multimedia
+Microsoft\Multivariant
+Microsoft\NET Framework Setup
+Microsoft\NetSh
+Microsoft\Network
+Microsoft\Non-Driver Signing
+Microsoft\Notepad
+Microsoft\ODBC
+Microsoft\OEM
+Microsoft\OfficeCSP
+Microsoft\Ole
+Microsoft\OnlineProviders
+Microsoft\Outlook Express
+Microsoft\Palm
+Microsoft\Personalization
+Microsoft\Phone
+Microsoft\Photos
+Microsoft\PLA
+Microsoft\PlayToReceiver
+Microsoft\PointOfService
+Microsoft\Policies
+Microsoft\PolicyManager
+Microsoft\PowerShell
+Microsoft\Print
+Microsoft\Provisioning
+Microsoft\PushRouter
+Microsoft\RADAR
+Microsoft\Ras
+Microsoft\RcsPresence
+Microsoft\RendezvousApps
+Microsoft\Router
+Microsoft\Rpc
+Microsoft\SchedulingAgent
+Microsoft\Security Center
+Microsoft\SecurityManager
+Microsoft\SEMgr
+Microsoft\Sensors
+Microsoft\Shared Tools
+Microsoft\Shell
+Microsoft\SMB1Uninstall
+Microsoft\SoftGrid
+Microsoft\Speech
+Microsoft\Speech_OneCore
+Microsoft\SQMClient
+Microsoft\Sync Framework
+Microsoft\Sysprep
+Microsoft\SystemCertificates
+Microsoft\SystemSettings
+Microsoft\TableTextService
+Microsoft\TabletTip
+Microsoft\TaskFlowDataEngine
+Microsoft\Tcpip
+Microsoft\TelemetryClient
+Microsoft\Terminal Server Client
+Microsoft\TouchPrediction
+Microsoft\TPG
+Microsoft\Tpm
+Microsoft\Tracing
+Microsoft\Transaction Server
+Microsoft\TV System Services
+Microsoft\uDRM
+Microsoft\UEV
+Microsoft\UNP
+Microsoft\UPnP Control Point
+Microsoft\UPnP Device Host
+Microsoft\Virtual Machine
+Microsoft\WAB
+Microsoft\Wallet
+Microsoft\Wbem
+Microsoft\WcmSvc
+Microsoft\WIMMount
+;Microsoft\Windows
+Microsoft\Windows Advanced Threat Protection
+Microsoft\Windows Defender
+Microsoft\Windows Defender Security Center
+Microsoft\Windows Desktop Search
+Microsoft\Windows Embedded
+Microsoft\Windows Mail
+Microsoft\Windows Media Device Manager
+Microsoft\Windows Media Foundation
+Microsoft\Windows Media Player NSS
+Microsoft\Windows Messaging Subsystem
+Microsoft\Windows NT
+Microsoft\Windows Photo Viewer
+Microsoft\Windows Portable Devices
+Microsoft\Windows Script Host
+Microsoft\Windows Search
+Microsoft\Windows Security Health
+Microsoft\WindowsRuntime
+Microsoft\WindowsSelfHost
+Microsoft\WindowsUpdate
+Microsoft\Wisp
+Microsoft\WlanSvc
+Microsoft\Wlpasvc
+Microsoft\Wow64
+Microsoft\WSDAPI
+Microsoft\WwanSvc
+Microsoft\Windows\AssignedAccessConfiguration
+Microsoft\Windows\AssignedAccessCsp          
+Microsoft\Windows\Autopilot                  
+Microsoft\Windows\ClickNote                  
+;Microsoft\Windows\CurrentVersion             
+Microsoft\Windows\DeviceUpdateCenter         
+Microsoft\Windows\Dwm                        
+Microsoft\Windows\DynamicManagement          
+Microsoft\Windows\EnterpriseResourceManager  
+Microsoft\Windows\Heat                       
+Microsoft\Windows\HTML Help                  
+Microsoft\Windows\ITStorage                  
+Microsoft\Windows\NcsiUwpApp                 
+Microsoft\Windows\ScheduledDiagnostics       
+Microsoft\Windows\ScriptedDiagnosticsProvider
+Microsoft\Windows\Shell                      
+Microsoft\Windows\Tablet PC                  
+Microsoft\Windows\TabletPC                   
+Microsoft\Windows\TenantRestrictions         
+Microsoft\Windows\UpdateApi                  
+Microsoft\Windows\Windows Error Reporting    
+Microsoft\Windows\Windows Search             
+Microsoft\Windows\CurrentVersion\AccountPicture              
+Microsoft\Windows\CurrentVersion\ActionCenter                
+Microsoft\Windows\CurrentVersion\App Management              
+Microsoft\Windows\CurrentVersion\App Paths                   
+Microsoft\Windows\CurrentVersion\AppHost                     
+Microsoft\Windows\CurrentVersion\Applets                     
+Microsoft\Windows\CurrentVersion\ApplicationFrame            
+Microsoft\Windows\CurrentVersion\AppModel                    
+Microsoft\Windows\CurrentVersion\AppModelUnlock              
+Microsoft\Windows\CurrentVersion\AppReadiness                
+Microsoft\Windows\CurrentVersion\Appx                        
+Microsoft\Windows\CurrentVersion\Audio                       
+Microsoft\Windows\CurrentVersion\Authentication              
+Microsoft\Windows\CurrentVersion\AutoRotation                
+Microsoft\Windows\CurrentVersion\BackupAndRestoreSettings    
+Microsoft\Windows\CurrentVersion\BitLocker                   
+Microsoft\Windows\CurrentVersion\BITS                        
+Microsoft\Windows\CurrentVersion\Bluetooth                   
+Microsoft\Windows\CurrentVersion\CapabilityAccessManager     
+Microsoft\Windows\CurrentVersion\Capture                     
+Microsoft\Windows\CurrentVersion\Casting                     
+Microsoft\Windows\CurrentVersion\ClickNote                   
+Microsoft\Windows\CurrentVersion\ClosedCaptioning            
+Microsoft\Windows\CurrentVersion\CloudExperienceHost         
+Microsoft\Windows\CurrentVersion\CloudStore                  
+Microsoft\Windows\CurrentVersion\Communications              
+Microsoft\Windows\CurrentVersion\Component Based Servicing   
+Microsoft\Windows\CurrentVersion\ConnectedSearch             
+Microsoft\Windows\CurrentVersion\ContainerMappedPaths        
+Microsoft\Windows\CurrentVersion\Control Panel               
+Microsoft\Windows\CurrentVersion\Controls Folder             
+Microsoft\Windows\CurrentVersion\CPSS                        
+Microsoft\Windows\CurrentVersion\DateTime                    
+Microsoft\Windows\CurrentVersion\Device Installer            
+Microsoft\Windows\CurrentVersion\Device Metadata             
+Microsoft\Windows\CurrentVersion\DeviceAccess                
+Microsoft\Windows\CurrentVersion\DevicePicker                
+Microsoft\Windows\CurrentVersion\DeviceSetup                 
+Microsoft\Windows\CurrentVersion\Diagnostics                 
+Microsoft\Windows\CurrentVersion\DriverConfiguration         
+Microsoft\Windows\CurrentVersion\DriverSearching             
+Microsoft\Windows\CurrentVersion\EditionOverrides            
+Microsoft\Windows\CurrentVersion\EventCollector              
+Microsoft\Windows\CurrentVersion\EventForwarding             
+Microsoft\Windows\CurrentVersion\Explorer                    
+Microsoft\Windows\CurrentVersion\Ext                         
+Microsoft\Windows\CurrentVersion\FileExplorer                
+Microsoft\Windows\CurrentVersion\FileHistory                 
+Microsoft\Windows\CurrentVersion\FilePicker                  
+Microsoft\Windows\CurrentVersion\FlightedFeatures            
+Microsoft\Windows\CurrentVersion\GameInput                   
+Microsoft\Windows\CurrentVersion\GameInstaller               
+Microsoft\Windows\CurrentVersion\Group Policy                
+Microsoft\Windows\CurrentVersion\HardwareIdentification      
+Microsoft\Windows\CurrentVersion\HelpAndSupport              
+Microsoft\Windows\CurrentVersion\Hints                       
+Microsoft\Windows\CurrentVersion\Holographic                 
+Microsoft\Windows\CurrentVersion\HoloSI                      
+Microsoft\Windows\CurrentVersion\IME                         
+Microsoft\Windows\CurrentVersion\ImmersiveShell              
+Microsoft\Windows\CurrentVersion\Installer                   
+Microsoft\Windows\CurrentVersion\InstallService              
+Microsoft\Windows\CurrentVersion\Internet Settings           
+Microsoft\Windows\CurrentVersion\Lock Screen                 
+Microsoft\Windows\CurrentVersion\Lxss                        
+Microsoft\Windows\CurrentVersion\Management Infrastructure   
+Microsoft\Windows\CurrentVersion\Media Center                
+Microsoft\Windows\CurrentVersion\MicrosoftEdge               
+Microsoft\Windows\CurrentVersion\MMDevices                   
+Microsoft\Windows\CurrentVersion\NcdAutoSetup                
+Microsoft\Windows\CurrentVersion\NetCache                    
+Microsoft\Windows\CurrentVersion\NetworkServiceTriggers      
+Microsoft\Windows\CurrentVersion\Notifications               
+Microsoft\Windows\CurrentVersion\OEMInformation              
+Microsoft\Windows\CurrentVersion\OOBE                        
+Microsoft\Windows\CurrentVersion\OpenWith                    
+Microsoft\Windows\CurrentVersion\Parental Controls           
+Microsoft\Windows\CurrentVersion\PerceptionSimulationExtensio
+Microsoft\Windows\CurrentVersion\Personalization             
+Microsoft\Windows\CurrentVersion\PhotoPropertyHandler        
+Microsoft\Windows\CurrentVersion\PlayReady                   
+Microsoft\Windows\CurrentVersion\Policies                    
+Microsoft\Windows\CurrentVersion\PrecisionTouchPad           
+Microsoft\Windows\CurrentVersion\PreviewHandlers             
+Microsoft\Windows\CurrentVersion\Privacy                     
+Microsoft\Windows\CurrentVersion\PropertySystem              
+Microsoft\Windows\CurrentVersion\Proximity                   
+Microsoft\Windows\CurrentVersion\PushNotifications           
+Microsoft\Windows\CurrentVersion\Reliability                 
+Microsoft\Windows\CurrentVersion\ReserveManager              
+Microsoft\Windows\CurrentVersion\RetailDemo                  
+Microsoft\Windows\CurrentVersion\Run                         
+Microsoft\Windows\CurrentVersion\RunOnce                     
+Microsoft\Windows\CurrentVersion\SearchBoxEventArgsProvider  
+Microsoft\Windows\CurrentVersion\SecondaryAuthFactor         
+Microsoft\Windows\CurrentVersion\SecureAssessment            
+Microsoft\Windows\CurrentVersion\Security and Maintenance    
+Microsoft\Windows\CurrentVersion\SettingSync                 
+Microsoft\Windows\CurrentVersion\Setup                       
+Microsoft\Windows\CurrentVersion\SharedAccess                
+Microsoft\Windows\CurrentVersion\SharedDLLs                  
+Microsoft\Windows\CurrentVersion\SharedPC                    
+Microsoft\Windows\CurrentVersion\Shell                       
+Microsoft\Windows\CurrentVersion\Shell Extensions            
+Microsoft\Windows\CurrentVersion\ShellCompatibility          
+Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad 
+;Microsoft\Windows\CurrentVersion\SideBySide                  
+Microsoft\Windows\CurrentVersion\SignalManager               
+Microsoft\Windows\CurrentVersion\SmartGlass                  
+Microsoft\Windows\CurrentVersion\SMDEn                       
+Microsoft\Windows\CurrentVersion\SMI                         
+Microsoft\Windows\CurrentVersion\Spectrum                    
+Microsoft\Windows\CurrentVersion\SpeechGestures              
+Microsoft\Windows\CurrentVersion\StorageSense                
+Microsoft\Windows\CurrentVersion\Store                       
+Microsoft\Windows\CurrentVersion\Syncmgr                     
+Microsoft\Windows\CurrentVersion\SysPrepTapi                 
+Microsoft\Windows\CurrentVersion\Telephony                   
+Microsoft\Windows\CurrentVersion\ThemeManager                
+Microsoft\Windows\CurrentVersion\Themes                      
+Microsoft\Windows\CurrentVersion\TouchKeyboard               
+Microsoft\Windows\CurrentVersion\Uninstall                   
+Microsoft\Windows\CurrentVersion\UpdatePlatform              
+Microsoft\Windows\CurrentVersion\URL                         
+Microsoft\Windows\CurrentVersion\UserPictureChange           
+Microsoft\Windows\CurrentVersion\UserState                   
+Microsoft\Windows\CurrentVersion\VFUProvider                 
+Microsoft\Windows\CurrentVersion\WaaSAssessment              
+Microsoft\Windows\CurrentVersion\WebCheck                    
+Microsoft\Windows\CurrentVersion\WinBio                      
+Microsoft\Windows\CurrentVersion\Windows Block Level Backup  
+Microsoft\Windows\CurrentVersion\Windows To Go               
+Microsoft\Windows\CurrentVersion\WindowsAnytimeUpgrade       
+Microsoft\Windows\CurrentVersion\WindowsBackup               
+Microsoft\Windows\CurrentVersion\WindowsUpdate               
+Microsoft\Windows\CurrentVersion\WindowTabManager            
+;Microsoft\Windows\CurrentVersion\WINEVT                      
+Microsoft\Windows\CurrentVersion\Wordpad                     
+Microsoft\Windows\CurrentVersion\WSMAN                       
+Microsoft\Windows\CurrentVersion\WSX                         
+Microsoft\Windows\CurrentVersion\XWizards                    
