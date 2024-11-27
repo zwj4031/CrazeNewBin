@@ -1,0 +1,34 @@
+
+Software\Classes\CLSID\{06768D72-39A1-401C-8D56-B8BBED94FD39}
+Software\Microsoft\FileServerRole
+Software\Microsoft\MSNFS
+Software\Microsoft\ServerForNfs
+Software\Microsoft\ServicesForNFS
+Software\Microsoft\Wbem\CIMOM
+Software\Microsoft\Windows\CurrentVersion\Component Based Servicing\Notifications\OptionalFeatures\CoreFileServer
+Software\Microsoft\Windows\CurrentVersion\Component Based Servicing\Notifications\OptionalFeatures\File-Services
+Software\Microsoft\Windows\CurrentVersion\Component Based Servicing\Notifications\OptionalFeatures\ServerForNFS-Infrastructure
+Software\Microsoft\Windows\CurrentVersion\Component Based Servicing\Notifications\OptionalFeatures\ServicesForNFS-ServerAndClient
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-ServicesForNFS-ONCRPC
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-ServicesForNFS-Portmapper
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-ServicesForNFS-Server
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Publishers\{3d888ee4-5a93-4633-91e7-fff8afd89a7b}
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Publishers\{6e1cbbe9-8c4b-4003-90e2-0c2d599a3edc}
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Publishers\{ed165f22-d006-4944-a9a2-8e23302c9ec6}
+Software\Microsoft\Windows\CurrentVersion\WINEVT\Publishers\{f450221a-07e5-403a-a396-73923dfb2cad}
+Software\Microsoft\Windows NT\CurrentVersion\Perflib\_V2Providers\{35fa6e75-455c-497b-ab6d-f9dd6d59a0bf}
+ControlSet001\Control\Lsa\MSV1_0
+ControlSet001\Control\WMI\Autologger\EventLog-System\{6e1cbbe9-8c4b-4003-90e2-0c2d599a3edc}
+ControlSet001\Control\WMI\Autologger\EventLog-System\{ed165f22-d006-4944-a9a2-8e23302c9ec6}
+ControlSet001\Control\WMI\Autologger\EventLog-System\{f450221a-07e5-403a-a396-73923dfb2cad}
+ControlSet001\Services\EventLog\Application\NfsService
+ControlSet001\Services\EventLog\System\NfsServer
+ControlSet001\Services\EventLog\System\Portmap
+ControlSet001\Services\EventLog\System\RpcXdr
+ControlSet001\Services\msnfsflt
+ControlSet001\Services\NfsServer
+ControlSet001\Services\NfsService
+ControlSet001\Services\Portmap
+ControlSet001\Services\RpcXdr
+ControlSet001\Services\SharedAccess\Defaults\FirewallPolicy\FirewallRules
+ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules
